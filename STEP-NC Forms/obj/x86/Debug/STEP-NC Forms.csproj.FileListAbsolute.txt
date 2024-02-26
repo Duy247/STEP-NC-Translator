@@ -1,0 +1,19 @@
+C:\Users\duy5a\source\repos\STEP-NC Forms\STEP-NC Forms\bin\x86\Debug\Properties\Resources.resx
+C:\Users\duy5a\source\repos\STEP-NC Forms\STEP-NC Forms\bin\x86\Debug\Properties\Resources.Designer.cs
+C:\Users\duy5a\source\repos\STEP-NC Forms\STEP-NC Forms\bin\x86\Debug\STEP-NC Forms.exe.config
+C:\Users\duy5a\source\repos\STEP-NC Forms\STEP-NC Forms\bin\x86\Debug\STEP-NC Forms.exe.manifest
+C:\Users\duy5a\source\repos\STEP-NC Forms\STEP-NC Forms\bin\x86\Debug\STEP-NC Forms.application
+C:\Users\duy5a\source\repos\STEP-NC Forms\STEP-NC Forms\bin\x86\Debug\STEP-NC Forms.exe
+C:\Users\duy5a\source\repos\STEP-NC Forms\STEP-NC Forms\bin\x86\Debug\STEP-NC Forms.pdb
+C:\Users\duy5a\source\repos\STEP-NC Forms\STEP-NC Forms\bin\x86\Debug\System.ValueTuple.dll
+C:\Users\duy5a\source\repos\STEP-NC Forms\STEP-NC Forms\bin\x86\Debug\System.ValueTuple.xml
+C:\Users\duy5a\source\repos\STEP-NC Forms\STEP-NC Forms\obj\x86\Debug\STEP-NC Forms.csprojAssemblyReference.cache
+C:\Users\duy5a\source\repos\STEP-NC Forms\STEP-NC Forms\obj\x86\Debug\STEP_NC_Forms.Form1.resources
+C:\Users\duy5a\source\repos\STEP-NC Forms\STEP-NC Forms\obj\x86\Debug\STEP_NC_Forms.Properties.Resources.resources
+C:\Users\duy5a\source\repos\STEP-NC Forms\STEP-NC Forms\obj\x86\Debug\STEP-NC Forms.csproj.GenerateResource.cache
+C:\Users\duy5a\source\repos\STEP-NC Forms\STEP-NC Forms\obj\x86\Debug\STEP-NC Forms.csproj.CoreCompileInputs.cache
+C:\Users\duy5a\source\repos\STEP-NC Forms\STEP-NC Forms\obj\x86\Debug\STEP-NC Forms.exe.manifest
+C:\Users\duy5a\source\repos\STEP-NC Forms\STEP-NC Forms\obj\x86\Debug\STEP-NC Forms.application
+C:\Users\duy5a\source\repos\STEP-NC Forms\STEP-NC Forms\obj\x86\Debug\STEP-NC Forms.csproj.CopyComplete
+C:\Users\duy5a\source\repos\STEP-NC Forms\STEP-NC Forms\obj\x86\Debug\STEP-NC Forms.exe
+C:\Users\duy5a\source\repos\STEP-NC Forms\STEP-NC Forms\obj\x86\Debug\STEP-NC Forms.pdb
